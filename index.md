@@ -5,7 +5,7 @@ En este sitio web puedes preguntar sobre materias o cualquier tema relacionados 
 ##Preguntas y respuestas(Q＆A)
 
 ```markdown
-
 #¿Cuáles son sus expectativas como grupo?
-Ayude a los estudiantes😎
+ 
+ Ayude a los estudiantes😎
 
