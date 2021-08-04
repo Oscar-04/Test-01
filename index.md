@@ -25,3 +25,10 @@ Puede ayudarnos a responder las preguntas de otros.[Portal]
  
  Ayude a los estudiantes😎
 
+
+## Proyecto mantenido por:
+Oscar
+Rocío
+Sebastián
+
+
