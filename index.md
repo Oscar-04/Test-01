@@ -1,6 +1,10 @@
-## Bienvenido a Test-04            [Activar modo oscuro](https://oscar-04.github.io/test/)
+## Bienvenido a Test-04           
 
 En este sitio web puedes preguntar sobre materias o cualquier tema relacionados con la escuela.
+
+## 
+ [Activar modo oscuro](https://oscar-04.github.io/test/)
+
 
 ## ¿Usar por primera vez?  
 
