@@ -1,4 +1,4 @@
-## Bienvenido a Test-04 ([Activar modo oscuro])
+## Bienvenido a Test-04            [Activar modo oscuro]
 
 En este sitio web puedes preguntar sobre materias o cualquier tema relacionados con la escuela.
 
