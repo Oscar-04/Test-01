@@ -27,10 +27,10 @@ Puede ayudarnos a responder las preguntas de otros.[Portal]
 
 
 ## Proyecto mantenido por:
-Oscar
-Rocío
-Sebastián
-José
-Javier
+#Oscar
+#Rocío
+#Sebastián
+#José
+#Javier
 
 
