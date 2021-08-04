@@ -1,8 +1,4 @@
-<h1 align="center">Clover</h1>
 
-<p align="center">
-       <a href="https://github.com/Oscar-04/Clover-04/issues/new/choose">
-  
 ## Bienvenido a Clover (Canary)
 
 En este sitio web puedes preguntar sobre materias o cualquier tema relacionados con la escuela.[Portal de enlace para hacer pregunta](https://github.com/Oscar-04/Clover-04/issues/new/choose) to maintain and preview the content for your website in Markdown files.
@@ -12,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ###Preguntas frecuuentes y respuestas(Q＆A)
 
 ```markdown
-#4.	¿Cuáles son sus expectativas como grupo?
+#¿Cuáles son sus expectativas como grupo?
 Ayude a los estudiantes😎
 
 
