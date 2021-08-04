@@ -1,19 +1,20 @@
-## Welcome to GitHub Pages
+<h1 align="center">Clover</h1>
 
-You can use the [editor on GitHub](https://github.com/Oscar-04/Clover-04/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+       <a href="https://github.com/Oscar-04/Clover-04/issues/new/choose">
+  
+## Bienvenido a Clover (Canary)
+
+En este sitio web puedes preguntar sobre materias o cualquier tema relacionados con la escuela.[Portal de enlace para hacer pregunta](https://github.com/Oscar-04/Clover-04/issues/new/choose) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###Preguntas frecuuentes y respuestas(Q＆A)
 
 ```markdown
-Syntax highlighted code block
+#4.	¿Cuáles son sus expectativas como grupo?
+Ayude a los estudiantes😎
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
