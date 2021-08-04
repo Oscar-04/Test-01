@@ -2,8 +2,7 @@
 
 En este sitio web puedes preguntar sobre materias o cualquier tema relacionados con la escuela.
 
-## 
- [Activar modo oscuro](https://oscar-04.github.io/test/)
+## [Activar modo oscuro](https://oscar-04.github.io/test/)
 
 
 ## ¿Usar por primera vez?  
