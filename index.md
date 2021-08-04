@@ -2,7 +2,7 @@
 
 En este sitio web puedes preguntar sobre materias o cualquier tema relacionados con la escuela.[Portal de enlace para hacer pregunta](https://github.com/Oscar-04/Clover-04/issues/new/choose)
 
-###Preguntas frecuuentes y respuestas(Q＆A)
+###Preguntas y respuestas(Q＆A)
 
  ```markdown
 #¿Cuáles son sus expectativas como grupo?
