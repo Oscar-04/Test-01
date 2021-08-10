@@ -17,7 +17,7 @@ En este sitio web puedes preguntar sobre materias o cualquier tema relacionados 
 [Haga click aquí](https://github.com/Oscar-04/Clover-04/issues/new/choose)
 
 ## ¿Quieres contribuir a nuestra comunidad?
-Puede ayudarnos a responder las preguntas de otros.[Portal]
+Puede ayudarnos a responder las preguntas de otros.[Haga clic aquí](https://github.com/Oscar-04/Test-01/issues)
 
 ## Preguntas y respuestas(Q＆A)
 
