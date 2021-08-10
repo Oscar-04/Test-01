@@ -1,3 +1,6 @@
+   <background: url(https://github.com/Oscar-04/Test-04/blob/gh-pages/wallhaven-43j8e6.jpg)
+
+
 ## Bienvenidos         
 
 En este sitio web puedes preguntar sobre materias o cualquier tema relacionados con la escuela.
