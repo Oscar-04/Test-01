@@ -1,4 +1,4 @@
-## Bienvenido a Proyecto de servicios comunitarios         
+## Bienvenidos         
 
 En este sitio web puedes preguntar sobre materias o cualquier tema relacionados con la escuela.
 
