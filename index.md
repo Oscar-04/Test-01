@@ -32,6 +32,4 @@ Puede ayudarnos a responder las preguntas de otros.[Portal]
 #Rocío
 #Sebastián
 #José
-#Javier
-
 
